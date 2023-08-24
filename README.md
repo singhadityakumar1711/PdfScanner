@@ -2,7 +2,7 @@
 Creating pdf files by scanning and applying thresholding, cropping and orientation features onto images captured through a webcam (mobile camera for this project)
 
 ---PDF SCANNER---
-This Pdf scanner is made using ip webcam and a few image processing techniques. 
+This Pdf scanner is made using ip webcam and a few image processing techniques..
 Technology Stack used: Python, OpenCV, Pillow.
 ---Features of pdf scanner:---
 1. Connected the phone camera with the laptop using python.
